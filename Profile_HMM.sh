@@ -8,7 +8,14 @@
 
 #ATTENTION1: to run it you need to download all the file with the same repository organization
 #ATTENTION2: for now you need to replace your working directory in all of the shell scripts that you can find
-#            into the scripts directory.
+#into the scripts directory.
+
+#TUTORIAL: to run and see how it work, you can use as input files those uploaded into this folder
+#YOU WILL FIND: 
+#the training set =>tabularResults_wild.csv
+#the positive testing set=>POS_testing_set.fasta
+#the negative testing set=>NEG_testing_set.fasta
+#the multiple structural alignment=> multi_struc_align.seq
 
 #ASSIGN the input to variables
 # mkdir input
